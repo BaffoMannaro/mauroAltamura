@@ -7,9 +7,9 @@
 <p align="left">I demonstrate talent in project management, with experience in planning and improving online and offline projects, meeting clients, deadlines and timelines.</p>
 <p align="left">In 2023, I decided to further expand my skills in FullStack Development </p>
 
-<p align="center"> <img src="https://i.ibb.co/f0j7XQ3/68747470733a2f2f692e696d6775722e636f6d2f7531724a6350512e676966.gif" alt="mauro-altamura" /> </p>
+<p align="center"> <img src="https://i.ibb.co/C9181Zg/ezgif-com-video-to-gif-converter.gif" alt="mauro-altamura" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damiano-maka&label=Profile%20views&color=0e75b6&style=flat" alt="mauro-altamura" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauroAltamura&label=Profile%20views&color=0e75b6&style=flat" alt="mauro-altamura" /> </p>
 
 - 🔭 I’m currently working on:
   -  **Booking management app** for an **Apulian B&B group**
