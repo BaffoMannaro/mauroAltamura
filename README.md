@@ -65,6 +65,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaffoMannaro&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="mauro-altamura" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=BaffoMannaro&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="BaffoMannaro's GitHub Stats" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaffoMannaro&show_icons=true&locale=en" alt="mauro-altamura" /></p>
