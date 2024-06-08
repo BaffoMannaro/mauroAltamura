@@ -67,4 +67,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaffoMannaro&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="BaffoMannaro's GitHub Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaffoMannaro&show_icons=true&locale=en" alt="mauro-altamura" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BaffoMannaro&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="BaffoMannaro's GitHub Stats" /></p>
